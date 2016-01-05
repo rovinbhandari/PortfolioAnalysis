@@ -1,3 +1,10 @@
+# Swap files
+.*.swo
+.*.swp
+
+# Real portfolio files
+*.portfolio
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
