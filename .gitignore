@@ -8,6 +8,12 @@
 # Jupyter stuff
 .ipynb_checkpoints/
 
+# Generated images
+*.png
+
+# Datasets
+*.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
