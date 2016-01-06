@@ -8,8 +8,9 @@
 # Jupyter stuff
 .ipynb_checkpoints/
 
-# Generated images
+# Generated webpages/images
 *.png
+*.html
 
 # Datasets
 *.csv
