@@ -5,6 +5,9 @@
 # Real portfolio files
 *.portfolio
 
+# Jupyter stuff
+.ipynb_checkpoints/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
